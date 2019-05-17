@@ -1,0 +1,13 @@
+.clock{
+    background-color: pink;
+    font-family: 'Baloo Bhai', cursive;
+    width: 500px;
+    margin: auto;
+    padding: 0 15px;
+    border-radius: 25px;
+}
+
+h4{
+    font-size: 40px;
+    margin: 10px;
+}
